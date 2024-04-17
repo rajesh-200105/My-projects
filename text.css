@@ -1,0 +1,201 @@
+.container{
+    width: 100%;
+    height: 100%;
+    /* background-image:url(backgopi5.png); */
+    background-color: white;
+    background-position: center;
+    background-size: cover;
+    /* padding-left: 8%;
+    padding-right: 8%;
+    box-sizing: border-box; */
+    padding-left: 50px;
+    padding-right: 50px;
+}
+ /* .navbar{
+    height: 12%;
+    display: flex;
+    align-items: center;
+ }
+ .logo{
+    width: 50px;
+    cursor: pointer;
+ }
+ .menu-icon{
+    background-color: black;
+    width: 30px;
+    cursor: pointer;
+    margin-left: 40px;
+ }
+ nav{
+    flex: 1;
+    text-align: right;
+ }
+nav ul,li {
+    list-style: none;
+    display: inline-block;
+    margin-left: 60px;
+}
+nav ul,li a{
+    text-decoration: none;
+    color: black;
+    font-size:13px ; 
+}*/
+.row{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+    width:100vw;
+    height: 100%px;
+    align-items: center;
+    margin-bottom: 20px;
+    
+}
+.col1{
+    /* flex-basis: 50%; */
+    height: 100%;
+    width: 400px;
+
+}
+.col2{
+    /* flex-basis: 50%; */
+    height: 100%;
+    width: 800px;
+    display: flex;
+    /* justify-content: space-between; */
+    flex-wrap: wrap;
+
+}
+h1{
+    color:black;
+    font-size: 80px;
+}
+p{
+    color:black;
+    font-size: 15px;
+    line-height: 15px;
+}
+button{
+    width: 150px;
+    height: 50px;
+    color: #000;
+    font-size: 20px ;
+    background: #138edb;
+    border: 0;
+    border-radius: 20px;
+    outline: none;
+    margin-top: 30px;
+    cursor: pointer;
+}
+.card{
+    width: 200px;
+    height: 240px;
+    display: inline-block;
+    border-radius: 10px;
+    padding: 18px 24px;
+    box-sizing: border-box;
+    cursor: pointer;
+    margin-left: 10px;
+     /* background-image: url(mumbai01.jpg);  */
+    background-position: center;
+    background-size: cover;
+    transition:transform 0.5s;
+}
+.card1{
+    background-image: url("https://lh3.googleusercontent.com/p/AF1QipMi7wc_v250RThz2kLKB0ilFjn8l67hzHk8nzhp=s1360-w1360-h1020");
+    margin: 5px;
+   
+}
+.card2{
+    background-image: url("https://media1.thrillophilia.com/filestore/sfbg4cdanjvctp3okuls7vraw3mc_1526983415_shutterstock_538750261.jpg?w=auto&h=600");
+    margin: 5px;
+}
+.card3{
+    background-image: url("https://media1.thrillophilia.com/filestore/s9w0gk4fz90wr8038sd0d86qg5v2_1600513699_55.png?w=auto&h=600");
+    margin: 5px;
+   
+}
+.card4{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtSMHk7mQE3AQxd-dUml7bGWdwl53JTy7pymGUiwyGTQ&s");
+    margin: 5px;
+   
+}
+.card5{
+    background-image: url("https://i.ytimg.com/vi/wJE9mFgCzQY/maxresdefault.jpg");
+    margin: 5px;
+   
+}
+.card6{
+    background-image: url("https://pbs.twimg.com/media/GI4GfvEbQAABvY5.jpg");
+    margin: 5px;
+   
+}
+.card:hover{
+    transform: translateY(-10px);
+}
+h5{
+   color: #fff;
+   text-shadow: 0 0 5px #999;
+   font-size: 15 px;
+}
+.card p{
+    text-shadow: 0 0 5px #000;
+    font-size: 12px;
+}
+  #title{
+    opacity: 1;
+    transform: translateX(-360px);
+    animation:title 1s linear 2s forwards;
+    /* padding-top: -100px; */
+} 
+/* .container .row .col #title{
+opacity: 0;
+transform: translateX(-360px);
+
+
+}
+.container .row .col #title:hover{
+    /* font-size: larger; 
+    opacity: 0.6;
+    transform: translateX(0px);
+    
+    } */
+@keyframes title{
+   100%{
+    opacity: 1;
+    transform: translateX(0px);
+   }
+
+}
+
+@media (max-width:572px) {
+    .container{
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    .row{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        align-items: center;
+        margin-top: 20px;
+        padding: 8px;
+        width:100%;
+        height: 100%;
+        align-items: center;
+        margin-bottom: 20px;
+    }
+
+    .col2{
+        /* flex-basis: 50%; */
+        height: 100%;
+        width: 100%;
+        margin-top: 20px;
+        display: flex;
+        /* justify-content: space-between; */
+        flex-wrap: wrap;
+        padding: 10px;
+    
+    }
+
+
+}
