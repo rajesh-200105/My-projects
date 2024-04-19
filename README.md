@@ -39,51 +39,51 @@ Azure Chatbot :- The Azure AI Language Chatbot is a cutting-edge conversational 
 
 # Screenshot’s:
 # Storage Account
-**C:\Users\DELL\Pictures\Screenshots\Screenshot (49)**
+**C:\Users\DELL\Pictures\Screenshots\Screenshot (49).png**
 
 # Static website
-**C:\Users\DELL\Pictures\Screenshots\Screenshot (32)**
+**C:\Users\DELL\Pictures\Screenshots\Screenshot (32).png**
 
 # Container
-**C:\Users\DELL\Pictures\Screenshots\Screenshot (33)**
+**C:\Users\DELL\Pictures\Screenshots\Screenshot (33).png**
 
 # Backup vault
-**C:\Users\DELL\Pictures\Screenshots\Screenshot (35)**
+**C:\Users\DELL\Pictures\Screenshots\Screenshot (35).png**
 
 # Role assignment
-**C:\Users\DELL\Pictures\Screenshots\Screenshot (37)**
+**C:\Users\DELL\Pictures\Screenshots\Screenshot (37).png**
 
 # Backup policy
-**C:\Users\DELL\Pictures\Screenshots\Screenshot (51)**
+**C:\Users\DELL\Pictures\Screenshots\Screenshot (51).png**
 
 # Azure Bot
-**C:\Users\DELL\Pictures\Screenshots\Screenshot (39)**
+**C:\Users\DELL\Pictures\Screenshots\Screenshot (39).png**
 
 # Test in web chat
-**C:\Users\DELL\Pictures\Screenshots\Screenshot (40)**
+**C:\Users\DELL\Pictures\Screenshots\Screenshot (40).png**
 
 # Resource visualizer
-**C:\Users\DELL\Pictures\Screenshots\Screenshot (42)**
+**C:\Users\DELL\Pictures\Screenshots\Screenshot (42).png**
 
 # Description
 Here I am attaching the final working website's screenshot for the reference.
 
 # Working Live Project Display:
 # Home page
-**C:\Users\DELL\Pictures\Screenshots\Screenshot (43)**
+**C:\Users\DELL\Pictures\Screenshots\Screenshot (43).png**
 
 # About Us
-**C:\Users\DELL\Pictures\Screenshots\Screenshot (44)**
+**C:\Users\DELL\Pictures\Screenshots\Screenshot (44).png**
 
 # Sign in
-**C:\Users\DELL\Pictures\Screenshots\Screenshot (45)**
+**C:\Users\DELL\Pictures\Screenshots\Screenshot (45).png**
 
 # Register
-**C:\Users\DELL\Pictures\Screenshots\Screenshot (46)**
+**C:\Users\DELL\Pictures\Screenshots\Screenshot (46).png**
 
 # Categories
-**C:\Users\DELL\Pictures\Screenshots\Screenshot (47)**
-**C:\Users\DELL\Pictures\Screenshots\Screenshot (48)**
+**C:\Users\DELL\Pictures\Screenshots\Screenshot (47).png**
+**C:\Users\DELL\Pictures\Screenshots\Screenshot (48).png**
 
 # Conclusion:
 This is our website TravelIndia.By developing this travelIndia website we made easy to find what  and when to eplore by having good knowledge over the places.
