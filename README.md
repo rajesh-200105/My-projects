@@ -39,7 +39,7 @@ Azure Chatbot :- The Azure AI Language Chatbot is a cutting-edge conversational 
 
 # Screenshot’s:
 # Storage Account
-**C:\Users\DELL\Pictures\Screenshots\Screenshot (49).png**
+**C:\Users\DELL\Pictures\Screenshots**
 
 # Static website
 **C:\Users\DELL\Pictures\Screenshots\Screenshot (32).png**
