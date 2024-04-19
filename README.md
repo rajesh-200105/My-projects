@@ -39,51 +39,51 @@ Azure Chatbot :- The Azure AI Language Chatbot is a cutting-edge conversational 
 
 # Screenshot’s:
 # Storage Account
-**C:\Users\DELL\Pictures\Screenshots**
+**C:\Users\DELL\Pictures\Screenshots\Screenshot (49)**
 
 # Static website
-**C:\Users\DELL\Pictures\Screenshots**
+**C:\Users\DELL\Pictures\Screenshots\Screenshot (32)**
 
 # Container
-**C:\Users\DELL\Pictures\Screenshots**
+**C:\Users\DELL\Pictures\Screenshots\Screenshot (33)**
 
 # Backup vault
-**C:\Users\DELL\Pictures\Screenshots**
+**C:\Users\DELL\Pictures\Screenshots\Screenshot (35)**
 
 # Role assignment
-**C:\Users\DELL\Pictures\Screenshots**
+**C:\Users\DELL\Pictures\Screenshots\Screenshot (37)**
 
 # Backup policy
-**C:\Users\DELL\Pictures\Screenshots**
+**C:\Users\DELL\Pictures\Screenshots\Screenshot (51)**
 
 # Azure Bot
-**C:\Users\DELL\Pictures\Screenshots**
+**C:\Users\DELL\Pictures\Screenshots\Screenshot (39)**
 
 # Test in web chat
-**C:\Users\DELL\Pictures\Screenshots**
+**C:\Users\DELL\Pictures\Screenshots\Screenshot (40)**
 
 # Resource visualizer
-**C:\Users\DELL\Pictures\Screenshots**
+**C:\Users\DELL\Pictures\Screenshots\Screenshot (42)**
 
 # Description
 Here I am attaching the final working website's screenshot for the reference.
 
 # Working Live Project Display:
 # Home page
-**C:\Users\DELL\Pictures\Screenshots**
+**C:\Users\DELL\Pictures\Screenshots\Screenshot (43)**
 
 # About Us
-**C:\Users\DELL\Pictures\Screenshots**
+**C:\Users\DELL\Pictures\Screenshots\Screenshot (44)**
 
 # Sign in
-**C:\Users\DELL\Pictures\Screenshots**
+**C:\Users\DELL\Pictures\Screenshots\Screenshot (45)**
 
 # Register
-**C:\Users\DELL\Pictures\Screenshots**
+**C:\Users\DELL\Pictures\Screenshots\Screenshot (46)**
 
 # Categories
-**C:\Users\DELL\Pictures\Screenshots**
-**C:\Users\DELL\Pictures\Screenshots**
+**C:\Users\DELL\Pictures\Screenshots\Screenshot (47)**
+**C:\Users\DELL\Pictures\Screenshots\Screenshot (48)**
 
 # Conclusion:
 This is our website TravelIndia.By developing this travelIndia website we made easy to find what  and when to eplore by having good knowledge over the places.
