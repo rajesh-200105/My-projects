@@ -39,52 +39,52 @@ Azure Chatbot :- The Azure AI Language Chatbot is a cutting-edge conversational 
 
 # Screenshot’s:
 # Storage Account
-**C:\Users\DELL\Pictures\Screenshots**
+**![storageac](https://github.com/rajesh-200105/My-projects/assets/166008797/5cf6ac24-1546-433a-9cd7-a0cf2441f768)**
 
 # Static website
-**C:\Users\DELL\Pictures\Screenshots\Screenshot(32).png**
+**![Screenshot (32)](https://github.com/rajesh-200105/My-projects/assets/166008797/9bbeb3e5-504e-4fa2-a3c2-fcb994fecb36)**
 
 
 # Container
-**C:\Users\DELL\Pictures\Screenshots\Screenshot (33).png**
+**![Screenshot (33)](https://github.com/rajesh-200105/My-projects/assets/166008797/b8ccfcee-fce0-4b1f-a99a-4a5a136f25fe)**
 
 # Backup vault
-**C:\Users\DELL\Pictures\Screenshots\Screenshot (35).png**
+**![Screenshot (35)](https://github.com/rajesh-200105/My-projects/assets/166008797/e04e649c-6ff3-4657-b7e2-9690455586a4)**
 
 # Role assignment
-**C:\Users\DELL\Pictures\Screenshots\Screenshot (37).png**
+**![Screenshot (37)](https://github.com/rajesh-200105/My-projects/assets/166008797/e3dc055d-4101-4e94-90bb-c5987d38ca14)**
 
 # Backup policy
-**C:\Users\DELL\Pictures\Screenshots\Screenshot (51).png**
+**![Screenshot (51)](https://github.com/rajesh-200105/My-projects/assets/166008797/27d151f9-0ff7-4549-bf26-c9365cc0d605)**
 
 # Azure Bot
-**C:\Users\DELL\Pictures\Screenshots\Screenshot (39).png**
+**![Screenshot (39)](https://github.com/rajesh-200105/My-projects/assets/166008797/03fa791e-d12e-4a8f-8109-3420763294b8)**
 
 # Test in web chat
-**C:\Users\DELL\Pictures\Screenshots\Screenshot (40).png**
+**![Screenshot (40)](https://github.com/rajesh-200105/My-projects/assets/166008797/81dee7a4-617e-47ad-be77-a9fdd5568c76)**
 
 # Resource visualizer
-**C:\Users\DELL\Pictures\Screenshots\Screenshot (42).png**
+**![Screenshot (42)](https://github.com/rajesh-200105/My-projects/assets/166008797/06a631cd-32df-4c40-8bac-54e03be0a573)**
 
 # Description
 Here I am attaching the final working website's screenshot for the reference.
 
 # Working Live Project Display:
 # Home page
-**C:\Users\DELL\Pictures\Screenshots\Screenshot (43).png**
+**![Screenshot (43)](https://github.com/rajesh-200105/My-projects/assets/166008797/e09ea703-e060-40a6-a26d-db0b854d17dc)**
 
 # About Us
-**C:\Users\DELL\Pictures\Screenshots\Screenshot (44).png**
+**![Screenshot (44)](https://github.com/rajesh-200105/My-projects/assets/166008797/f5d1a5c4-d342-4942-98a1-7e0a0699bae5)**
 
 # Sign in
-**C:\Users\DELL\Pictures\Screenshots\Screenshot (45).png**
+**![Screenshot (45)](https://github.com/rajesh-200105/My-projects/assets/166008797/2ddafe92-a1a8-41c7-b8dd-61593166bc9d)**
 
 # Register
-**C:\Users\DELL\Pictures\Screenshots\Screenshot (46).png**
+**![Screenshot (46)](https://github.com/rajesh-200105/My-projects/assets/166008797/db6570df-21ec-47e0-94c4-9951948a5ef0)**
 
 # Categories
-**C:\Users\DELL\Pictures\Screenshots\Screenshot (47).png**
-**C:\Users\DELL\Pictures\Screenshots\Screenshot (48).png**
+**![Screenshot (47)](https://github.com/rajesh-200105/My-projects/assets/166008797/7adbd3ca-06ed-4def-bebb-2754e04e04ba)**
+**![Screenshot (48)](https://github.com/rajesh-200105/My-projects/assets/166008797/df3387d8-32fb-4a1c-b9bc-db1412e51eaa)**
 
 # Conclusion:
 This is our website TravelIndia.By developing this travelIndia website we made easy to find what  and when to eplore by having good knowledge over the places.
