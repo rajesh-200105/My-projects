@@ -3,8 +3,11 @@ guidance and overview of tourist places in India which are classified and seggre
 
 # Project Details
 Project Demo URL:https://intravelstorage.z13.web.core.windows.net/
+
 Demo Video URL: 
+
 GitHub Repository URL:https://rajesh-200105.github.io/
+
 Industry: Travel
 # Roles and responsibilities
 Rajesh Nallabothula (project management) :Manages the web development project.
