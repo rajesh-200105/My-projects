@@ -6,7 +6,7 @@ Project Demo URL:https://intravelstorage.z13.web.core.windows.net/
 
 Demo Video URL:https://youtu.be/hBkWYcBykCQ 
 
-GitHub Repository URL:https://rajesh-200105.github.io/
+GitHub Repository URL:https://github.com/rajesh-200105/My-projects
 
 Industry: Travel
 # Roles and responsibilities
