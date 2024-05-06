@@ -1,164 +1,182 @@
 <!DOCTYPE html>
 <html lang="en">
-
-<head>
-	<title>Tracker SignUp Page</title>
-	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css"
-		integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA=="
-		crossorigin="anonymous" referrerpolicy="no-referrer" />
-	<link rel="icon" th:href="@{/images/trakerLogo.png}">
-	<link rel="preconnect" href="https://fonts.googleapis.com">
-	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-	<link href="https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@200&display=swap" rel="stylesheet">
-	<style>
-		body {
-			width: 100%;
-			height: 100vh;
-			/* overflow: hidden; */
-			margin: 0px;
-			padding: 0px;
-			background-image: linear-gradient(320deg, #2e319256, #1bffff7d);
-		}
-		header {
-			border-bottom: solid 2px black;
-			padding: 20px;
-		}
-
-		
-		#title {
-			position: relative;
-		text-align: center;
-			display: inline;
-			font-family: 'Pacifico', cursive;
-		}
-
-		#con-1 {
-			background-image: linear-gradient(120deg, #2E3192, #1BFFFF);
-			height: 86.5vh;
-			display: flex;
-			justify-content: center;
-			align-items: center;
-			flex-direction: column;
-		}
-
-		#subCon-1 {
-			width: 40vw;
-			height: 80vh;
-			background-image: linear-gradient(320deg, #2e319256, #1bffff7d);
-			border-radius: 3vw;
-			box-shadow: 0px 0px 8px black;
-			display: flex;
-			align-items: center;
-			flex-direction: column;
-		}
-
-		#stage1 {
-			display: flex;
-			justify-content: center;
-			column-gap: 10px;
-			/* background-color: yellow; */
-			width: 500px;
-		}
-
-		#facebook,
-		#google {
-			background-color: #3b5998;
-			color: aliceblue;
-			box-shadow: 0px 0px 1px black;
-			width: 13vw;
-			height: 8vh;
-			border-radius: 1vw;
-			display: flex;
-			justify-content: center;
-			align-items: center;
-		}
-
-		#google {
-			background-color: aliceblue;
-			color: black;
-			box-shadow: 0px 0px 1px black;
-		}
-
-		.userData {
-			width: 25vw;
-			height: 5vh;
-			background-image: linear-gradient(320deg, #2e319256, #1bffff7d);
-			border-radius: 1vw;
-			outline: none;
-			border: none;
-			box-shadow: 0px 0px 3px black;
-			font-size: 1.2vw;
-			padding-left: 1vw;
-		}
-
-		#sub {
-			width: 26.5vw;
-			height: 6vh;
-			border-radius: 1vw;
-			font-size: large;
-			outline: none;
-			border: none;
-			box-shadow: 0px 0px 3px black;
-			background-image: linear-gradient(320deg, #2E3192, #1BFFFF);
-			color: aliceblue;
-			cursor: pointer;
-		}
-		.home
-		{
-			text-align: end;
-			margin-bottom: 0px;
-		}
-	</style>
-	 <script>
-		document.addEventListener('DOMContentLoaded', function() {
-	document.getElementById('myForm').addEventListener('submit', function(event) {
-	event.preventDefault(); // Prevents the form from submitting normally
+    <head>
+        <title>Register-page</title>
+        <meta charset="utf-8">
+		<style>
+			title
+{
+    margin: auto;
+    text-align: center;
 	
-	// Open a popup window
-	openPopup();
-	});
-	});
+}
+.loginPage
+{
+    width: 600px;
 	
-	function openPopup() {
-	// You can customize the popup window's content and appearance here
-	var popup = window.open('', 'popupWindow', 'width=400,height=300,justify-content=center');
-	popup.document.write('<h2 >thank you for register!</h2>');
-	popup.document.write('<p style="color:green">your account has been sucessfully registered go to login page</p>');
-	popup.document.write('<button onclick="window.close()">Close</button>');
-	
-	}
-	
-	</script>
-</head>
+    padding: 0% 0 0;
+    margin: auto;
+}
 
-<body>
-	<header>
-		
-		<h2 id="title">TRAVEL INDIA REGISTRATION</h2>
-		 <h3 class="home" ><a href="home.html" style="text-decoration: none; color:black;">HOME</h3></a>
-	</header>
-	
-	<div id="con-1">
-		
-		<div id="subCon-1">
-			<h4 style="font-family: 'Source Code Pro', monospace;">Create New Account</h4>
-			<div id="stage1">
-				<form action=" " method="post">
-					<input class="userData" name="fullname" type="text" placeholder="Your Name" autofocus required><br><br>
-					<input class="userData" name="username" type="text" placeholder="Your Username" required><br><br>
-					<input class="userData" name="email" type="text" placeholder="Your Email" required><br><br>
-					<input class="userData" name="mobile" type="text" placeholder="Your Mobile" required><br><br>
-					<input class="userData" name="password" type="text" placeholder="Your Password" required><br><br>
-					<input class="userData" name="repassword" type="text" placeholder="Re-Enter Your Password" required><br><br>
-					<button id="sub" style="color: white;" onclick="openPopup() ">Register</button>
-				</form>
-				
-			</div>
-			<h5>Have already an account..? <a href="login.html" style="text-decoration: none; color: white;">login</a> here</h5>
-		</div>
-		<h4 text="" style="color: red;"></h4>
-	</div>
+.form
+{
+    position: relative;
+    background: #ddd4d4;
+   
+    /* margin:  50px; */
+    padding: 60px;
+    text-align: center;
+    box-shadow: 0 0 50px 0 rgb(140, 178, 146), 0 5px 5px 0 rgb(12, 48, 24);
+    color: #ed8585;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    font-weight: bolder;
+    border-radius: 2.5mm 2.5mm;
+}
 
-</body>
+.signUp
+{
+    font-family: Tahoma;
+    font-weight: bolder;
+    font-size: 20px;
+    outline: 0;
+    background: #1337d4;
+    width: 50%;
+    border: 0;
+    padding: 10px;
+    color: #000000;
+    border-radius: 18mm;
+    -webkit-transition: all 0.3 ease;
+    transition: all 0.3 ease;
+    cursor: pointer;
+}
 
+.genero
+{
+   margin-left: 100px;
+    vertical-align: middle;
+    
+}
+input[type="text"],
+input[type="password"],
+input[type="number"],
+input[type="email"],
+textarea
+{
+  font-size: 16px;
+  height: auto;
+  margin: 0;
+  outline: 0;
+  padding: 12px;
+  width: 93.5%;
+  background-color: #ffffff;
+  border-color: #dddddd;
+  margin-bottom: 15px;
+}
+
+input[type="checkbox"]
+{
+    width: unset;
+    margin: 0 0.5em 2em 3.5em ;
+    margin-top: 2em;
+    
+}
+
+body
+{
+    background: #6bc2c8; /* fallback for old browsers */
+    background: rgb(141, 214, 232);
+    background: linear-gradient(90deg, rgb(81, 228, 130) 0%, rgb(176, 213, 210) 50%);
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;  
+}
+
+p
+{
+    margin: 1em auto;
+    text-align: justify;
+    font-size: medium;
+}
+
+h1
+{
+    margin: 1.5em auto;
+    text-align: center;
+}
+
+fieldset
+{
+    border: 0;
+    padding-bottom: 2rem;
+}
+
+a
+{
+    color: #83a4bbb0;
+}
+
+textarea
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 2em;
+    width: 80%;
+}
+.errorMsg{
+    color: red;
+    font-weight: bolder;
+    font-size: 12px;
+}
+.home
+{
+   
+    margin-left:800px;
+ 
+   font-size: 30px;
+
+}
+		</style>
+		<script defer type="text/javascript" src="register.js"></script>
+    </head>
+    <body>
+        <main>
+            <div class="loginPage">
+                <div class="form">
+                    <form action="" name="myForm" id="survey-form" onsubmit="return validateForm()">
+                        <div class="home"><a href="home.html" style="text-decoration: none; color: #d21d11;">Home</a></div>
+                        <fieldset>
+                            <label for="email" id="email-label">
+                                <p id="question">ENTER YOUR EMAILID </p>
+                                <input type="email" name="email" placeholder="Enter your email..." id="email" autocomplete="off" >
+                                <p class="errorMsg" id="emailError"></p>
+                            </label>
+                            <label for="email" id="email-label">
+                            <p id="question">Enter Phone</p> 
+                                <input type="number" name="phoneno" placeholder="Enter number" id="phoneno" pattern="[0-9]{10}" autocomplete="off" >
+                                <p class="errorMsg" id="phonenoError"></p>
+                            </label>
+                            <label for="text" id="name-label">
+                                <p id="question">CREATE USER NAME ?</p>
+                                <input type="text" name="name" placeholder="Put a profile name..." id="name" autocomplete="off">
+                                <p class="errorMsg" id="nameError"></p>
+                                </label>
+                            <label for="password">
+                            <p id="question">CREATE YOUR PASSWORD </p>
+                                <input type="password" name="password" placeholder="Create a password..." id="password" autocomplete="off">
+                                <p class="errorMsg" id="passwordError"></p>
+                            </label>
+                            <p>What is your gender?</p>
+                            <label for=""><input class="genero" type="radio" name="gender" value="Men" id="gender" checked required>Men</label>
+                            <label for=""><input class="genero" type="radio" name="gender" value="Woman" id="gender" required>Woman</label>
+                        </fieldset>
+                        <!-- <fieldset>
+                        <p>What is your gender?</p>
+                            <label for=""><input class="genero" type="radio" name="gender" value="Men" id="gender" checked required>Men</label>
+                            <label for=""><input class="genero" type="radio" name="gender" value="Woman" id="gender" required>Woman</label>
+                        </fieldset> -->
+                        <input class="signUp" type="submit" value="Sign up" id="submit" >
+                    </form>
+                </div>
+            </div>
+        </main>
+    </body>
 </html>
