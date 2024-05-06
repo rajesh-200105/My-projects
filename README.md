@@ -84,7 +84,7 @@ Here I am attaching the final working website's screenshot for the reference.
 **![Screenshot (45)](https://github.com/rajesh-200105/My-projects/assets/166008797/2ddafe92-a1a8-41c7-b8dd-61593166bc9d)**
 
 # Register
-**![Screenshot (46)](https://github.com/rajesh-200105/My-projects/assets/166008797/db6570df-21ec-47e0-94c4-9951948a5ef0)**
+**![Screenshot (52)](https://github.com/rajesh-200105/My-projects/assets/166008797/c52ea893-d444-4177-a48f-964824b991a0)**
 
 # Categories
 **![Screenshot (47)](https://github.com/rajesh-200105/My-projects/assets/166008797/7adbd3ca-06ed-4def-bebb-2754e04e04ba)**
