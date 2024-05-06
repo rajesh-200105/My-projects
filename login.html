@@ -1,151 +1,165 @@
-
 <!DOCTYPE html>
-<html lang="en" xmlns:th="https://www.thymeleaf.org">
-<head>
-   <title>TravelIndia</title>
-   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-   <link rel="preconnect" href="https://fonts.googleapis.com">
-   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-   <link href="https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@200&display=swap" rel="stylesheet">
-   <style>
-      body{
-         width: 100%;
-         height: 100vh;
-         /* overflow: hidden; */
-         margin: 0px;
-         padding: 0px;
-         background-image: linear-gradient(320deg,#2e319256 , #1bffff7d);
-      }
-      
-      header{
-         border-bottom: solid 2px black;
-      }
-     
-      #title{
-       
-      position: relative;
-       text-align: center;
-         display: inline;
-         font-family: 'Pacifico';
-         
-      }
-      #con-1{
-        background-image: linear-gradient(120deg,#2E3192 , #1BFFFF);
-        height: 86.5vh;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-      }
-      #subCon-1{
-        width: 40vw;
-        height: 65vh;
-        background-image: linear-gradient(320deg,#2e319256 , #1bffff7d);
-        border-radius: 3vw;
-        box-shadow: 0px 0px 8px black;
-        display: flex;
-        align-items: center;
-        flex-direction: column;
-      }
-      #stage1,#stage2{
-        display: flex;
-        justify-content: center;
-        column-gap: 10px;
-        /* background-color: yellow; */
-        width: 500px;
-      }
-      #facebook, #google{
-        background-color:  #3b5998;
-        color: aliceblue;
-        box-shadow: 0px 0px 1px black;
-        width: 13vw;
-        height: 8vh;
-        border-radius: 1vw;
-        display: flex;
-        justify-content: center;
-        align-items: center;        
-      }
-    
-      #google{
-        background-color: aliceblue;
-        color: black;
-        box-shadow: 0px 0px 1px black;
-      }
-      .userData{
-        width: 25vw;
-        height: 5vh;
-        background-image: linear-gradient(320deg,#2e319256 , #1bffff7d);
-        border-radius: 1vw;
-        outline: none;
-        border: none;
-        box-shadow: 0px 0px 3px black;
-        font-size: large;
-        padding-left: 1vw;
-      }
-      #sub{
-        width: 26.5vw;
-        height: 6vh;
-        border-radius: 1vw;
-        font-size: large;
-        background-color: #000000;
-        color: aliceblue;
-        cursor: pointer;
-      }
-      .home
-		{
-			text-align: end;
-			top: 40px;
-      padding: 20px;
-    }
-   
-       
-   </style>
-   <script>
-    document.addEventListener('DOMContentLoaded', function() {
-document.getElementById('myForm').addEventListener('submit', function(event) {
-event.preventDefault(); // Prevents the form from submitting normally
-
-// Open a popup window
-openPopup();
-});
-});
-
-function openPopup() {
-// You can customize the popup window's content and appearance here
-var popup = window.open('', 'popupWindow', 'width=400,height=300,justify-content=center');
-popup.document.write('<h2>thank you!</h2>');
-popup.document.write('<p>your has been sucessfully login please go home</p>');
-popup.document.write('<button onclick="window.close()">Close</button>');
+<html lang="en">
+    <head>
+        <title>Register-page</title>
+        <meta charset="utf-8">
+		<style>
+			title
+{
+    margin: auto;
+    text-align: center;
+	
+}
+.loginPage
+{
+    width: 600px;
+	
+    padding: 0% 0 0;
+    margin: auto;
 }
 
-</script>
-</head>
-<body>
-	
-    <header>
-      <h2 id="title">TRAVEL INDIA REGISTRATION</h2>
-      <h3 class="home" ><a href="home.html" style="text-decoration: none; color:black;">HOME</h3></a>
-   </header>
-   <div id="con-1">
-      <div id="subCon-1">
-		  
-        <h1 style="font-family: 'Source Code Pro', monospace;">Sign In With</h1>
-           
-            <div id="stage2">
-               <form action="#" >
-                <label for="">Username</label><br>
-                <input class="userData" type="text" autofocus title="Enter Your Name" name="username"><br><br>
-                <label for="">Password <span style="font-size: 1vw;"> </label><br>
-                <input class="userData" type="text" title="Enter Your Password" name="password">
-                <i class="fa-solid fa-eye" style="position: relative; right: 3vw;" id="logo"></i>
-                <br><br>
-               <button id="sub" onclick="openPopup()">Login</button>
-               </form>
-             </div>
-             <h5>not a member..! <a href="register.html" style="text-decoration: none; color: rgb(227, 7, 7);">Register</a> now</h5>
-             <h3 style="color: red;" ></h3>
-      </div>
-      
-   </div>
+.form
+{
+    position: relative;
+    background: #ddd4d4;
    
-</body>
+    /* margin:  50px; */
+    padding: 60px;
+    text-align: center;
+    box-shadow: 0 0 50px 0 rgb(140, 178, 146), 0 5px 5px 0 rgb(12, 48, 24);
+    color: #ed8585;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    font-weight: bolder;
+    border-radius: 2.5mm 2.5mm;
+}
+
+.signUp
+{
+    font-family: Tahoma;
+    font-weight: bolder;
+    font-size: 20px;
+    outline: 0;
+    background: #1337d4;
+    width: 50%;
+    border: 0;
+    padding: 10px;
+    color: #000000;
+    border-radius: 18mm;
+    -webkit-transition: all 0.3 ease;
+    transition: all 0.3 ease;
+    cursor: pointer;
+}
+
+.genero
+{
+   margin-left: 100px;
+    vertical-align: middle;
+    
+}
+input[type="text"],
+input[type="password"],
+input[type="number"],
+input[type="email"],
+textarea
+{
+  font-size: 16px;
+  height: auto;
+  margin: 0;
+  outline: 0;
+  padding: 12px;
+  width: 93.5%;
+  background-color: #ffffff;
+  border-color: #dddddd;
+  margin-bottom: 15px;
+}
+
+input[type="checkbox"]
+{
+    width: unset;
+    margin: 0 0.5em 2em 3.5em ;
+    margin-top: 2em;
+    
+}
+
+body
+{
+    background: #6bc2c8; /* fallback for old browsers */
+    background: rgb(141, 214, 232);
+    background: linear-gradient(90deg, rgb(81, 228, 130) 0%, rgb(176, 213, 210) 50%);
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;  
+}
+
+p
+{
+    margin: 1em auto;
+    text-align: justify;
+    font-size: medium;
+}
+
+h1
+{
+    margin: 1.5em auto;
+    text-align: center;
+}
+
+fieldset
+{
+    border: 0;
+    padding-bottom: 2rem;
+}
+
+a
+{
+    color: #83a4bbb0;
+}
+
+textarea
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 2em;
+    width: 80%;
+}
+.errorMsg{
+    color: red;
+    font-weight: bolder;
+    font-size: 12px;
+}
+.home
+{
+   
+    margin-left:800px;
+ 
+   font-size: 30px;
+
+}
+		</style>
+		<script defer type="text/javascript" src="login.js"></script>
+    </head>
+    <body>
+        <main>
+            <div class="loginPage">
+                <div class="form">
+                    <form action="" name="myForm" id="survey-form" onsubmit="return validateForm()">
+                        <div class="home"><a href="home.html" style="text-decoration: none; color: #d21d11;">Home</a></div>
+                        <h1 style="margin-top: 0%; margin-bottom: 0%;">Login</h1>
+                        <fieldset>
+                            <label for="email" id="email-label">
+                                <p id="question">ENTER YOUR EMAILID </p>
+                                <input type="email" name="email" placeholder="Enter your email..." id="email" autocomplete="off" >
+                                <p class="errorMsg" id="emailError"></p>
+                            </label>
+                            <label for="password">
+                            <p id="question">CREATE YOUR PASSWORD </p>
+                                <input type="password" name="password" placeholder="Create a password..." id="password" autocomplete="off">
+                                <p class="errorMsg" id="passwordError"></p>
+                            </label>
+                        </fieldset>
+                        <input class="signUp" type="submit" value="Sign In" id="submit" >
+                    </form>
+                </div>
+            </div>
+        </main>
+    </body>
 </html>
