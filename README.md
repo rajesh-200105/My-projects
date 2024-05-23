@@ -2,7 +2,7 @@
 guidance and overview of tourist places in India which are classified and seggregated helping in choosing places according to one's likes and preferences  
 
 # Project Details
-Project Demo URL:https://intravelstorage.z13.web.core.windows.net/
+Project Demo URL:https://intravelstorageac.z13.web.core.windows.net/
 
 Demo Video URL:https://youtu.be/hBkWYcBykCQ 
 
