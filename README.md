@@ -10,17 +10,18 @@ GitHub Repository URL:https://github.com/rajesh-200105/My-projects
 
 Industry: Travel
 # Roles and responsibilities
-Rajesh Nallabothula (project management) :Manages the web development project.
-Parimala Manthena (Deployment) :Deployment and maintenance of project infrastructure.
-Addakula Deena (Images, logos and chat bot questions) :Responsible for image searching, logo creation and chat bot questions
-Vemgal Suhas (Documentation) :Responsible for managing the documentation process.
+1. Rajesh Nallabothula (project management) 
+2. Parimala Manthena (Deployment) 
+3. Addakula Deena (Images, logos and chat bot questions)
+4. Vemgal Suhas (Documentation)
+   
 # Azure services used:
-Azure blob storage
-Storage account
-Azure Backup service
-Azure AI services
-chatbot
-Azure Role Based access Control(RBAC)
+1. Azure blob storage
+2. Storage account
+3. Azure Backup service
+4. Azure AI services
+5. Azure Role Based access Control(RBAC)
+   
 # Problem Statement:
 India is a country whose breathtaking beauty never fails to astound visitors. India, a country of several states, has so much to offer that picking a place to go on holiday may be challenging. Which Indian state is the most picturesque? Since there are numerous gorgeous sights to choose from, that is a challenging question to answer. So, it gets difficult to navigate through new places.By developing the travel app we made easy to find what to explore by having good knowledge over the places.If you're thinking about this while you schedule your next trip, we've tried to help you with the decision-making process.
 
