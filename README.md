@@ -10,22 +10,26 @@ GitHub Repository URL:https://github.com/rajesh-200105/My-projects
 
 Industry: Travel
 # Roles and responsibilities
+
 1. Rajesh Nallabothula (project management) 
 2. Parimala Manthena (Deployment) 
 3. Addakula Deena (Images, logos and chat bot questions)
 4. Vemgal Suhas (Documentation)
    
-# Azure services used:
+# Azure services used
+
 1. Azure blob storage
 2. Storage account
 3. Azure Backup service
 4. Azure AI services
 5. Azure Role Based access Control(RBAC)
    
-# Problem Statement:
+# Problem Statement
+
 India is a country whose breathtaking beauty never fails to astound visitors. India, a country of several states, has so much to offer that picking a place to go on holiday may be challenging. Which Indian state is the most picturesque? Since there are numerous gorgeous sights to choose from, that is a challenging question to answer. So, it gets difficult to navigate through new places.By developing the travel app we made easy to find what to explore by having good knowledge over the places.If you're thinking about this while you schedule your next trip, we've tried to help you with the decision-making process.
 
-# Project Description:
+# Project Description
+
 India has fascinated many tourists across the globe with her secularism and her culture. The scenic landscape, hill stations, historical sites, architecture and monuments, beaches, and enchanting backwater, places of religious interest make India a preferred destination for tourists from all over the world.
 1. One-Stop Platform
 You should login to travel app because they are a one-stop platform for travel needs, right from providing guide, ticket booking, hotel booking to itinerary planning. and you are good to go.
@@ -36,13 +40,16 @@ Tourist Places in different states: India is a fantastic tourist destination. In
  Tourist Attractions in India: India is a country known for its lavish treatment to all visitors, no matter where they come from. Its visitor-friendly traditions, varied life styles and cultural heritage and colourful fairs and festivals held abiding attractions for the tourists. The other attractions include beautiful beaches, forests and wild life and landscapes for eco-tourism; snow, river and mountain peaks for adventure tourism; technological parks and science museums for science tourism; centres of pilgrimage for spiritual tourism; heritage, trains and hotels for heritage tourism. Yoga, ayurveda and natural health resorts and hill stations also attract tourists.
 
 
-# Core Azure Services:
+# Core Azure Services
+
 Azure Blob Storage:- Azure Blob Storage is Microsoft's scalable object storage solution in the Azure cloud. It enables secure and cost-effective storage of unstructured data, such as documents and images. Offering seamless integration with applications, it supports data of any size and optimizes accessibility through a globally distributed network. Azure Storage Account:- Azure Storage Account is a foundational component in Microsoft Azure, providing secure and scalable cloud storage. It supports various storage services like Blob, File, Queue, and Table, accommodating diverse data types. With features such as redundancy options and access controls, it ensures reliable and efficient data management. Azure Backup Service:- Azure Backup Service by Microsoft safeguards critical data in the Azure cloud. It offers automated and scalable backup solutions for virtual machines, applications, and files. With features like long-term retention and geo-redundancy, it ensures data resilience and facilitates efficient disaster recovery, enhancing overall data protection strategies.
 
 # Azure AI Service
+
 Azure Chatbot :- The Azure AI Language Chatbot is a cutting-edge conversational agent powered by Microsoft's Azure platform. Leveraging advanced natural language processing capabilities, it facilitates dynamic and context-aware interactions. This intelligent chatbot employs machine learning algorithms to comprehend user queries, providing personalized responses and assistance across diverse domains. Seamlessly integrating with Azure services, it ensures scalability and reliability.
 
-# Screenshot’s:
+# Screenshot’s
+
 # Storage Account
 **![storageac](https://github.com/rajesh-200105/My-projects/assets/166008797/5cf6ac24-1546-433a-9cd7-a0cf2441f768)**
 
@@ -91,5 +98,6 @@ Here I am attaching the final working website's screenshot for the reference.
 **![Screenshot (47)](https://github.com/rajesh-200105/My-projects/assets/166008797/7adbd3ca-06ed-4def-bebb-2754e04e04ba)**
 **![Screenshot (48)](https://github.com/rajesh-200105/My-projects/assets/166008797/df3387d8-32fb-4a1c-b9bc-db1412e51eaa)**
 
-# Conclusion:
+# Conclusion
+
 This is our website TravelIndia.By developing this travelIndia website we made easy to find what  and when to eplore by having good knowledge over the places.
